@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
 # Date: 30-10-2026
-## Register Number:
+## Register Number: 212225040202
 ## Name: Logapriya A
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
@@ -34,7 +34,6 @@ RailGuide is a smart railway station navigation system designed to help passenge
 - **External Integration:** Railway APIs
 - **Development Tools:** Visual Studio Code, Git, GitHub
 
-## Dependencies
 ## Dependencies
 
 - Node.js
